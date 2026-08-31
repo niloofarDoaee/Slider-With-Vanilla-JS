@@ -18,7 +18,7 @@ Made By :
 
 ## Links
 
-This Project link to see : 
+This Project link to see : https://niloofardoaee.github.io/Slider-With-Vanilla-JS/
 
 
 
